@@ -1,1 +1,1 @@
-This is an example of how to use PHP and CSS together.
+This is an simple example of how to use PHP and CSS together.
