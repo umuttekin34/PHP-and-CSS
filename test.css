@@ -1,0 +1,19 @@
+table{
+    width: 450px;
+}
+td{
+    width: 150px;
+    height: auto;
+}
+.true{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+    font-size: 20px;
+    text-align: center;
+}
+.false{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:darkturquoise;
+    font-size: 20px;
+    text-align: center;
+}
